@@ -1,0 +1,12 @@
+.count-number{
+    color: #CB4D85 !important;
+    font-size: 32px;
+    font-weight: 600;
+    font-family: 'Roboto Condensed', sans-serif !important;
+}
+
+.count-title{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Roboto Condensed', sans-serif !important;
+}

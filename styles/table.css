@@ -1,0 +1,15 @@
+.rdt_TableHeadRow{
+    background-color: #F5F5F5 !important;
+}
+
+.rdt_TableHeadRow div div{
+    font-family: 'Roboto Condensed',sans-serif !important;
+    font-weight: 400 !important;
+    font-size: 14px !important;
+}
+
+.table-title{
+    font-weight: 400 !important;
+    font-size: 18px !important;
+    font-family: 'Roboto Condensed',sans-serif !important;
+}
